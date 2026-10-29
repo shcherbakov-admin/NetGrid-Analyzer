@@ -1,7 +1,7 @@
 # NetGrid Analyzer (v1.0)
 ![Интерфейс программы NetGrid Analyzer](screenshot.png)
 
-### 📥 [Скачать готовый NetGridSuite.exe (v1.0.0 Stable)] [[https://github.com](https://github.com/shcherbakov-admin/NetGrid-Analyzer/releases/download/v1.0.0/NetGridSuite.exe)]
+### 📥 [Скачать готовый NetGridSuite.exe (v1.0.0 Stable)][[https://github.com](https://github.com/shcherbakov-admin/NetGrid-Analyzer/releases/download/v1.0.0/NetGridSuite.exe)]
 * **Программа компилируется в один независимый нативный бинарник. Запускается мгновенно, не требует установки, СУБД и тяжелых рантаймов. Идеально для работы с админской флешки.**
 💡 **Рекомендация по запуску:** Для корректного сохранения локальной конфигурации (автоматически создаваемого файла `config.ini`) рекомендуется поместить исполняемый файл `.exe` в отдельную постоянную папку на диске и запускать его с помощью ярлыка.
 ---

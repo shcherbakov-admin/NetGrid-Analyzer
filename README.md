@@ -1,4 +1,4 @@
-# NetGrid Analyzer (v1.0)
+# NetGrid Analyzer (v1.0.1)
 ![Интерфейс программы NetGrid Analyzer](screenshot.png)
 
 ### 📥 [Скачать готовый NetGrid Analyzer.exe (v1.0.0 Stable)](https://github.com/shcherbakov-admin/NetGrid-Analyzer/releases/download/v1.0.0/NetGridSuite.exe)
